@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I am Sucheta Swetlana, currently working as a PhD research scholar at Indian Institute of Science (IISc), Bangalore, India. I mostly work on topics involving atomistic simulations in materials, data science and machine learning tools to address real world challenges in materials research.
+- I am Sucheta Swetlana, currently working as a PhD research scholar at Indian Institute of Science (IISc), Bangalore, India. I mostly work on topics involving atomistic simulations, data science and machine learning tools to address real world challenges in materials research.
 
 - My research focusses on adressing real world problems using atomistics simulations and machine learning. I have worked on funded projects by DRDO labs, Hyderabad, India. 
 
@@ -9,7 +9,7 @@
 
 - :key: Coding Languages: Python, C++, C, Matlab
 
-- :key: Softwares: VASP, Quantum Espresso, Vim, Vesta, Adobe Illustrator, Anaconda, MS office, etc
+- :key: Softwares: VASP, Quantum Espresso, Vim, Vesta, Adobe Illustrator, Anaconda, LAMMPS, MS office, etc
 
 - :key: Packages: Sklearn, Pandas, Seaborn, Matplotlib, Keras, Tensorflow, OpenCV, Skimage, etc
 
