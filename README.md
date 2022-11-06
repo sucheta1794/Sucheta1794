@@ -21,6 +21,7 @@
 #### 👯  I’m looking to collaborate on data science, machine learning and image processing.
 
 #### :notebook:  All my projects are available on [GitHub](https://github.com/sucheta1794)
+#### :trophy:  All my publications are available on [Google Scholar](https://scholar.google.com/citations?user=N2i1QhIAAAAJ&hl=en)
 
 #### 📫  How to reach me: [Linkedin](https://www.linkedin.com/in/sucheta-swetlana-0197b9210/), [Google Scholar](https://scholar.google.com/citations?user=N2i1QhIAAAAJ&hl=en), [ORCiD](https://orcid.org/0000-0001-9411-2633 ) , [Email](suchetas@iisc.ac.in)
 
