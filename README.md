@@ -1,7 +1,7 @@
 ### Hi there 👋
-- I am Sucheta Swetlana, currently working as a PhD research scholar at Indian Institute of Science (IISc), Bangalore, India. I mostly work on topics involving atomistic simulations, data science and machine learning tools to address real world challenges in materials research.
+- I am Sucheta Swetlana, currently working as a PhD research scholar at Indian Institute of Science (IISc), Bangalore, India. 
 
-- My research focusses on adressing real world problems using atomistics simulations and machine learning. I have worked on funded projects by DRDO labs, Hyderabad, India. 
+- I mostly work on topics involving atomistic simulations, data science and machine learning tools to address real world challenges in materials research.  I have worked on several funded projects in collaboration with DRDO defence labs, Hyderabad, India.  
 
 #### :computer: I have expertise in various skills:
 
