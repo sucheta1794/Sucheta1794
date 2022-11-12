@@ -9,9 +9,9 @@
 
 - :key: Coding Languages: Python, C++, C, Matlab
 
-- :key: Softwares: VASP, Quantum Espresso, Vim, Vesta, Adobe Illustrator, Anaconda, LAMMPS, MS office, etc
+- :key: Softwares: VASP, Quantum Espresso, Vim, Vesta, Adobe Illustrator, Anaconda, LAMMPS, MS office, etc.
 
-- :key: Packages: Sklearn, Pandas, Seaborn, Matplotlib, Keras, Tensorflow, OpenCV, Skimage, etc
+- :key: Packages: Sklearn, Pandas, Seaborn, Matplotlib, Keras, Tensorflow, OpenCV, Skimage, any many more.
 
 - :key: OS: Windows, Linux
 
