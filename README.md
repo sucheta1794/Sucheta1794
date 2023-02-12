@@ -5,7 +5,7 @@
 
 #### :computer: I have expertise in various skills:
 
-- :key: Skills: Data Science, Image processing, Machine Learning
+- :key: Expertise: Data Science, Image processing, Machine Learning
 
 - :key: Coding Languages: Python, C++, C, Matlab
 
