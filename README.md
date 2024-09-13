@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I am Sucheta Swetlana, a PhD graduate from Indian Institute of Science (IISc), Bangalore, India.
+- I am Sucheta Swetlana, a PhD graduate in Computational Materials Science from Indian Institute of Science (IISc), Bangalore, India.
   
 - Experienced data science and machine learning enthuthiast handling different projects in both academia and industry.
 
